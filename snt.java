@@ -10,7 +10,7 @@ public class snt {
         return this.age;
     }
 }
-
+//chilll
 class empoly extends snt {
     private int salary;
 
